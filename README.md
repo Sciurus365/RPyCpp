@@ -1,5 +1,5 @@
 # RPyCpp
-This repo contains the demo files for the presentation *"Multilingual" Programming for Psychological Research* at the BSI Day 2020, and also for the WeChat article 《如虎添翼：用Python与C++扩展R语言的应用场景》.
+This repo contains the demo files for the presentation *"Multilingual" Programming for Psychological Research* at the BSI Day 2020, and also for the WeChat article [《如虎添翼：用Python与C++扩展R语言的应用场景》](https://mp.weixin.qq.com/s/wDKCIfQWSuxJYU_LCP-FUQ).
 
 For files with English comments, please see the files ending with "en".
 
